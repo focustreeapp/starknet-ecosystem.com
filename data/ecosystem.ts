@@ -1842,4 +1842,22 @@ export const allProjects: Array<Project> = [
     isLive: true,
     isTestnetLive: true,
   },
+  {
+    id: "bd2ecbe2-8688-4422-88ac-daee7af88719",
+    name: "Focus Tree",
+    short_name: "Focus Tree",
+    description: "The first web3 productivity app to help millions reduce their time spent on social media while onbarding them into crypto",
+    tags: ["DeFi", "GameFi", "Mobile", "NFT"],
+    logo: "focustree.png",
+    network: {
+      website: "https://www.focustree.app/",
+      github: "",
+      twitter: "https://twitter.com/focustree_app",
+      medium: "https://medium.com/@focustree_app",
+      discord: "https://discord.gg/UdDGWfkD5D",
+      telegram: "https://t.me/focustree_app",
+    },
+    isLive: false,
+    isTestnetLive: false,
+  },
 ];
